@@ -13,7 +13,8 @@ export const Header = () => {
       <nav className="p-6">
         <div className="flex justify-between items-center">
           <h1 className="pr-6 border-r-2 text-2xl font-bold text-gray-500">
-            Simple Todo App
+            Simple Todo <br />
+            App
           </h1>
           <div className="flex justify-between flex-grow">
             <div className="flex ml-6 items-center"></div>
